@@ -1,0 +1,14 @@
+body{
+    background-image:url("brick.jpg");
+}
+body h2, p{
+    color: white;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 22px;
+    font-style: italic;
+}
