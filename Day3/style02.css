@@ -1,7 +1,7 @@
 body{
-    background-image:url("brick.jpg");
+    background-image: url("brick.jpg");
 }
-body h2, p{
+body h2{
     color: white;
     text-align: center;
 }
@@ -11,4 +11,23 @@ h2{
 p{
     font-size: 22px;
     font-style: italic;
+    text-align: justify;
+    color: white;
+}
+ul, li {
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    list-style-position: inside;
+}
+.footer-text {
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+    font-size: 18px;
+    background: rgba(138, 125, 125, 0.7);
+    padding: 6px 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    color: #000000;
 }
