@@ -21,7 +21,7 @@ ul, li {
     list-style-position: inside;
 }
 .footer-text {
-    position: fixed;
+    position:fixed;
     right: 20px;
     bottom: 10px;
     font-size: 18px;

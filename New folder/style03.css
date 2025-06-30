@@ -1,0 +1,36 @@
+body{
+    background-color: cornsilk;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+h1{
+    color: navy;
+    font-size: 24px;
+    text-align: center;
+}
+
+#PersonalInfo{
+   float: left;
+   
+}
+#essay{
+
+    margin-left: 20px; 
+    margin-right: 20px; 
+    float:left;
+    font-size: 16px;
+}
+#documents{
+    margin-left: 20px; 
+    margin-right: 20px; 
+    float:right;
+    font-size: 16px;
+}
+#submission{
+    margin-left: 20px; 
+    margin-right: 20px; 
+    font-size: 16px;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
